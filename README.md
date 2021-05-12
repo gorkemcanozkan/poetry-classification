@@ -24,7 +24,6 @@ This notebook includes classification of poetry ages and authors with both RNNs 
     tensorflow
     numpy
     wordcloud
-    ps: All the libraries can be downloaded by pip install -r requirements.txt
 
 
 ## Author
